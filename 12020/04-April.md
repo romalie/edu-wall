@@ -1,0 +1,3 @@
+# ASTEROID BELT MINING
+
+Spacecraft and supporting life requires many rare metals, which over time will become very scarce on Earth. Luckily, the asteroid belt between Mars and Jupiter contains elements valuable for technological purposes like gold and platinum, while important construction metals like iron and aluminium are also abundant. Mining asteroids in zero gravity and with no oxygen is a very challenging task for a human, so instead automated spacecraft will do the job for us. To minimize costs and keep the transport routes as short as possible, the harvested metals could be separated and purified on site.

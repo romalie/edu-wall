@@ -1,0 +1,3 @@
+# DYSON SWARM
+
+As humanity grows and becomes more technologically advanced, so does our hunger for energy. Good thing we have a massive power plant at our hands: the Sun. It releases the energy of a trillion megaton nuclear bombs every single second. To capture it, we must build a Dyson Swarm, a colossal mega structure consisting of countless solar panel satellites that orbit the Sun and collect its energy. Our base for the Dyson project will be Mercury. It is close to the Sun and provides the resources to build our panels, which - when finished are launched into orbit at high velocity with a large railgun, which is a canon powered by electromagnetic currents.

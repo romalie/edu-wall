@@ -1,0 +1,3 @@
+# NEUTRON STAR
+
+Humanity has conquered the solar system and found a way to overcome immense distances. With this knowledge and technology, we are now prepared to venture out into the unknown depths of infinite space. On our journey we'll marvel at distant galaxies, observe the extreme force of black holes, dive into colorful nebulas and visit super dense neutron stars. This will give us unique insights into how the universe was created, or what caused our solar system to form. And we will be on a good path to find out whether the only planet that ever gave birth to life is our home, the Earth - or if there are other travellers out there.

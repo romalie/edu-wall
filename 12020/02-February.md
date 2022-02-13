@@ -1,0 +1,3 @@
+# MOONBASE
+
+Next stop: the Moon. It is the closest celestial body to Earth, so it seems only natural to set up our first non-terrestrial colony there. Even if the grey Moon surfacedoesn't look very promising from afar, we can find many useful resources there. Moon dust, for example, resembles volcanic ash on Earth and can be compressed to make building materials. And lunar ice contains water, which the first inhabitants could simply drink or split into hydrogen and oxygen to use as rocket fuel. Fortunately, the gravity on the Moon is just one sixth of that of Earth, so launching expedition or cargo ships from here will require a lot less of our valuable fuel.

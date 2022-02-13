@@ -1,0 +1,3 @@
+# SUBSURFACE OCEANS
+
+No matter where we go, humans are highly dependent on water. Fortunately, we have huge reservoirs in our solar system, for example on Jupiter's moons Ganymede, Europa and Callisto. These moons harbour vast subsurface oceans, hidden under thick sheets of ice. While many other water sources freeze in space, these oceans stay liquid thanks to ammonia, salts and a little kneading by Jupiter's gravity. This means the moons could potentially sustain human life. When brave explorers drill through the ice and dive down into the black waters, who knows what they might find? It could be anything from tiny microbes to fully developed intelligent civilizations.

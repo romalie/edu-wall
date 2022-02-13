@@ -1,0 +1,3 @@
+# SKYHOOK
+
+Colonizing Mars is hard due to its toxic soil, dust storms and cosmic radiation. But at least we can use Martian ice for building aquaponics, water tanks to cultivate fish and plants to eat. To deliver the necessary tools, we can use a Skyhook, which is like a spinning space elevator in orbit. As it spins it dips into the atmosphere, catches spacecrafts, and catapults them into space.
