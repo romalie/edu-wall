@@ -1,0 +1,10 @@
+---
+layout: base
+---
+
+<section class="container">
+    <strong>{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
+    <h1>{{ page.title | upcase }}</h1>
+    
+    {{ content }}
+</section>
