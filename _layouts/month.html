@@ -2,9 +2,25 @@
 layout: base
 ---
 
-<section class="container">
-    <strong>{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
-    <h1>{{ page.title | upcase }}</h1>
-    
+<div class="card">
+    <header>
+        <div class="row">
+            <div class="col">
+                <a href="{{ page.previous.url }}" class="button outline icon-only">
+                    <img src="https://icongr.am/feather/chevron-left.svg?size=20&color=000000" alt="icon">
+                </a>
+            </div>
+            <div class="col is-vertical-align is-horizontal-align">
+                <strong>{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
+            </div>
+            <div class="col">
+                <a href="{{ page.next.url }}" class="button outline icon-only pull-right">
+                    <img src="https://icongr.am/feather/chevron-right.svg?size=20&color=000000" alt="icon">
+                </a>
+            </div>
+        </div>
+        <h1>{{ page.title | upcase }}</h1>
+    </header>
+
     {{ content }}
-</section>
+</div>

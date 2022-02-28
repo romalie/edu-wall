@@ -1,0 +1,19 @@
+<div class="row">
+    {% assign not_first = false %}
+    {% for post in site.posts reversed %}
+        {% assign currentyear = post.date | date: "%Y" %}
+        {% if currentyear != year %}
+            {% if not_first %}
+                </ul></div>
+            {% endif %}
+            <div class="col">
+                <strong>1{{ currentyear }} HE</strong>
+                <ul>
+            {% assign year = currentyear %}
+            {% assign not_first = true %}
+        {% endif %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+        </ul>
+    </div>
+</div>

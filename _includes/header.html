@@ -1,0 +1,19 @@
+<nav class="nav">
+
+    <div class="nav-left">
+        <a class="brand" href="{{ site.url }}">Home</a>
+
+        {% assign pageyear = page.date | date: "%Y" %}
+
+        <div class="tabs">
+            {% for post in site.posts reversed %}
+                {% assign currentyear = post.date | date: "%Y" %}
+                {% if currentyear != year %}
+                    <a href="{{ post.url }}" {% if pageyear == currentyear %} class="active" {% endif %}>1{{ currentyear }}</a>
+                    {% assign year = currentyear %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+</nav>

@@ -1,0 +1,6 @@
+@import url(chota.css);
+
+:root {
+    --color-primary: #2247ac;
+    --grid-maxWidth: 80rem;
+}
