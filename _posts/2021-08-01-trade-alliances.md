@@ -1,0 +1,3 @@
+---
+---
+As agricultural productivity increased, exchanging goods became more important. To secure trade routes against robbers, many cities came together to form alliances. The most important and powerful alliance of the Middle Ages was the Hanseatic League, which connected almost 200 cities in 9 countries. It encouraged cultural and scientific progress, like navigation techniques and shipbuilding.

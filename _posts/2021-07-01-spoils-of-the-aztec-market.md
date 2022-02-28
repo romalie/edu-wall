@@ -1,0 +1,3 @@
+---
+---
+Before anybody in Europe even knew that another continent existed, Native Americans had already built giant cities and whole empires. The Aztecs ruled over more than 5 million citizens, living in as many as 500 smaller states all over modern-day Mexico. The capital Tenochtitlan was built on an island in Lake Texoco. In its heyday, it was the sixth-largest city in the world, with 140,000 inhabitants and tens of thousands more coming to its huge market each day. When the Spanish conquerors arrived, they were impressed by the richness on display. Their chronicles talk about all kinds of expensive objects, "including ornaments of gold and silver, lead, brass, copper, tin, stones, shell bones and feathers."

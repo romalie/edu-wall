@@ -1,0 +1,3 @@
+---
+---
+The Ancient Greeks are known for many things we still enjoy today. While a lot of aspects of Greek culture were inspired by other ancient peoples, theater was definitely their invention. Back then, plays were only performed once by no more than three actors. They often promoted democracy and responded to the political problems of the day, giving people another way to take part in political discourse.

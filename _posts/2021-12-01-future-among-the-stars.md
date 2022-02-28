@@ -1,0 +1,4 @@
+---
+---
+The Solar System is a hostile place. We can neither survive in a vacuum nor in extreme places like scorching Venus or frigid Enceladus. Sustaining life in space will be difficult and dangerous - but not impossible. We can do what we have done on Earth already: create an environment that is perfectly tailored to our needs. Maybe we will build giant ring stations
+that spin to produce artificial gravity and hold in a warm breathable atmosphere using invisible plasma windows. Right now, this vision of the future is just as blurry as our impression of the distant past. But maybe someday future generations will look back on the first steps toward space colonization as we are looking back on the Neolithic Revolution now.

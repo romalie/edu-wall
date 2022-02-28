@@ -1,0 +1,3 @@
+---
+---
+Besides the Fertile Crescent, the Indus Valley region was home to one of the most advanced ancient civilizations we know about. The history of the Harappan culture that lived there started 5,300 years ago and counts as one of the most wide-spread in terms of territory: over a thousand cities spanned over an area twice as big as France. During its prime, the capital Harappa was inhabited by up to 60,000 people. They domesticated cattle, made tools from bronze and developed one of the first writing systems. What's surprising for a culture that persisted for more than 2,000 years with such a big territory is the fact that almostnoevidenceof warfare wasfound,indicating that they were a very peaceful civilization.
