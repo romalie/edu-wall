@@ -23,16 +23,11 @@ email: romalie.ecopc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Static page containing the texts corresponding to calendar pages of our 
   kurzgesagt calendars.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/edu-wall" # the subpath of your site, e.g. /blog
+url: "https://romalie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: romalie
 permalink: /:year/:month/:title:output_ext
 future: true
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
 
 defaults:
   -
