@@ -6,7 +6,7 @@ layout: base
     <header>
         <div class="row">
             <div class="col">
-                <a href="{{ page.previous.url }}" class="button outline icon-only">
+                <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button outline icon-only">
                     <i data-feather="chevron-left"></i>
                 </a>
             </div>
@@ -14,7 +14,7 @@ layout: base
                 <strong class="text-primary">{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
             </div>
             <div class="col">
-                <a href="{{ page.next.url }}" class="button outline icon-only pull-right">
+                <a href="{{ site.baseurl }}{{ page.next.url }}" class="button outline icon-only pull-right">
                     <i data-feather="chevron-right"></i>
                 </a>
             </div>
