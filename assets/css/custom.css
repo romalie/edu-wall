@@ -33,3 +33,7 @@ section {
 a {
     color: var(--font-color);
 }
+
+a i.mr {
+    margin-right: 0.5rem;
+}

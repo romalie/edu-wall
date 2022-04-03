@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kurzgesagt education wall
+title: romalie's edu wall
 email: romalie.ecopc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Static page containing the texts corresponding to calendar pages of our 
-  kurzgesagt calendars.
+  Static page containing the educational texts corresponding to the text on 
+  the back side of some beautiful calendar pages we hung up as posters.
 baseurl: "/edu-wall" # the subpath of your site, e.g. /blog
 url: "https://romalie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: romalie
@@ -37,6 +37,9 @@ defaults:
     values:
       layout: "month"
 
+exclude:
+  - scripts/
+  - .venv/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
