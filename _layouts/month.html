@@ -1,26 +1,26 @@
 ---
 layout: base
 ---
-
-<div class="card">
+<section class="card">
     <header>
-        <div class="row">
-            <div class="col">
-                <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button outline icon-only">
-                    <i data-feather="chevron-left"></i>
-                </a>
-            </div>
-            <div class="col is-vertical-align is-horizontal-align">
-                <strong class="text-primary">{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
-            </div>
-            <div class="col">
-                <a href="{{ site.baseurl }}{{ page.next.url }}" class="button outline icon-only pull-right">
-                    <i data-feather="chevron-right"></i>
-                </a>
-            </div>
-        </div>
+        <strong class="text-primary is-centered">{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
         <h1>{{ page.title | upcase }}</h1>
     </header>
-
+    
     {{ content }}
-</div>
+    
+    <footer>
+        {% if page.previous %}
+        <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button outline icon">
+            <i data-feather="chevron-left"></i>
+        </a>
+        {% else %}
+        <div class="button clear"></div>
+        {% endif %}
+        {% if page.next %}
+        <a href="{{ site.baseurl }}{{ page.next.url }}" class="button outline icon">
+            <i data-feather="chevron-right"></i>
+        </a>
+        {% endif %}
+    </footer>
+</section>

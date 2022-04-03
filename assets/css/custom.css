@@ -25,6 +25,11 @@ section {
     padding: 2rem 3rem;
 }
 
+.card footer {
+    display: flex;
+    justify-content: space-between;
+}
+
 a {
     color: var(--font-color);
 }
