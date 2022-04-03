@@ -8,6 +8,8 @@ layout: base
     </header>
     
     {{ content }}
+
+    <p></p>
     
     <footer>
         {% if page.previous %}
@@ -17,6 +19,14 @@ layout: base
         {% else %}
         <div class="button clear"></div>
         {% endif %}
+
+        <a href="{{ site.baseurl }}/assets/images{{ page.path | replace: '_posts', '' | replace: '.md', '.png' }}" class="button outline clear icon">
+            <i class="mr">
+                <i data-feather="grid"></i>
+            </i>
+            QR code
+        </a>
+
         {% if page.next %}
         <a href="{{ site.baseurl }}{{ page.next.url }}" class="button outline icon">
             <i data-feather="chevron-right"></i>
