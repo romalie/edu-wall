@@ -1,0 +1,3 @@
+---
+---
+Humans built roads and railways to bring our world closer together and make modern economies possible. We are also working to expand this infrastructure beyond our own planet, so space activity can experience a similar boom in growth. This could for example be building space stations, centered on asteroids, moons or planets, that serve as hubs for trade, transport and industry. Resupplying spaceships at these hubs will let them travel farther, while processing raw materials means less mass has to be moved around. It's also a good place for people to stay in between missions. Eventually, they might grow into cities thatmake the vast expanse of space feel less empty.

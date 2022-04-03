@@ -1,0 +1,4 @@
+---
+---
+Around 4,000 years ago marks the beginning of the 13 different dynasties that ruled China one after the other. The Han Dynasty is considered the golden age of the ancient Chinese civilization. Chang'an, the capital of the West-Han empire, was the largest city on Earth next to Rome at that time, with more than 120,000 inhabitants. Under the rule of the Han Dynasty.
+China also made remarkable progress in science, economy and infrastructure: Paper, porcelain and fireworks were invented, and the Silk Road was opened - a network of trade routes that allowed trade relations between the Occident and the Orient.

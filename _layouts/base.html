@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+    <body class="container dark">
+        
+        {% include header.html %}
+
+        <section id="list">
+            {{ content }}
+        </section>
+
+        {% include footer.html %}
+
+    </body>
+
+    <script>
+        feather.replace();
+        if (document.body.classList.contains("dark")) {
+            document.querySelector('#theme-switch').innerHTML = "🌙";
+        } else {
+            document.querySelector('#theme-switch').innerHTML = "☀️";
+}
+    </script>
+
+</html>

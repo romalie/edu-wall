@@ -1,0 +1,3 @@
+---
+---
+More than 45,000 years ago, modern humans fled from a drought in Africa towards what is now known as the Middle East. There they met others who were similar to them but not quite the same: Neanderthals. Findings show that the two groupsdidn't only come in contact but must have lived side by side for a period of time: exchanging tools, knowledge - and even genetic material. The possibility of this crossbreeding was disputed among scientists for a long time. But now we have the technology to find the proof within ourselves: Genetic analysis shows that most of us carry between 1 and 4% of Neanderthal DNA in our genome.

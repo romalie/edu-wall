@@ -1,0 +1,26 @@
+---
+layout: base
+---
+
+<div class="card">
+    <header>
+        <div class="row">
+            <div class="col">
+                <a href="{{ page.previous.url }}" class="button outline icon-only">
+                    <i data-feather="chevron-left"></i>
+                </a>
+            </div>
+            <div class="col is-vertical-align is-horizontal-align">
+                <strong class="text-primary">{{ page.date | date: "%B" }}, 1{{ page.date | date: "%Y" }}</strong>
+            </div>
+            <div class="col">
+                <a href="{{ page.next.url }}" class="button outline icon-only pull-right">
+                    <i data-feather="chevron-right"></i>
+                </a>
+            </div>
+        </div>
+        <h1>{{ page.title | upcase }}</h1>
+    </header>
+
+    {{ content }}
+</div>

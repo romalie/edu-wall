@@ -1,3 +1,3 @@
-# INHABITING VENUS
-
+---
+---
 Temperatures around 464 ?C, volcanoes, lava and toxic fumes make the surface of Venus a place you would not like to go to. But surprisingly, just around 50km above its surface, a completely different side of the planet unfolds. Here, an atmosphere whose pressure and density is similar to that of Earth's surface may be comfortable to humans. Lighter-than-air carrier vessels could serve as a perfect habitat for explorers to examine Venus' composition. With just a little chemistry, we could turn Venus' atmospheric gases into neat substances like water, methane-based rocket fuels and even durable carbon fibre.

@@ -1,0 +1,30 @@
+@import url(chota.css);
+
+:root {
+    --color-primary: #111032;
+    --grid-maxWidth: 80rem;
+}
+
+body.dark {
+    --color-primary: #ff9900;
+    --bg-color: #222853;
+    --bg-secondary-color: #151e4c;
+    --font-color: #ffffff;
+    --color-lightGrey: #743225;
+    --color-grey: #0f122c;
+    --color-darkGrey: #b9422b;
+}
+
+section {
+    margin: 5rem auto;
+}
+
+.card {
+    box-shadow: 1px 3px 10px var(--color-grey);
+    background-color: var(--bg-secondary-color);
+    padding: 2rem 3rem;
+}
+
+a {
+    color: var(--font-color);
+}

@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+{% include list.html posts=site.posts %}
