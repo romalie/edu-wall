@@ -3,7 +3,15 @@ if (
     window.matchMedia("(prefers-color-scheme: dark)").matches
 ) {
     document.body.classList.add("dark");
-    document.querySelector('#theme-switch').innerHTML = "🌙"
+    document.querySelector('#theme-switch').innerHTML = "🌙";
+}
+
+if (
+    window.matchMedia &&
+    window.matchMedia("(prefers-color-scheme: light)").matches
+) {
+    document.body.classList.remove("dark");
+    document.querySelector('#theme-switch').innerHTML = "☀️";
 }
 
 function switchMode(el) {
